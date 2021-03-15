@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Groceries &#8211; Herbia</title>
-	<atom:link href="/product-category/groceries/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://milancelap.github.io/herbia/product-category/groceries/feed/" rel="self" type="application/rss+xml" />
+	<link>https://milancelap.github.io/herbia/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 09 Sep 2020 07:23:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,188 +21,188 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/03/cropped-faviconretina-32x32.png</url>
+	<url>https://milancelap.github.io/herbia/wp-content/uploads/2021/03/cropped-faviconretina-32x32.png</url>
 	<title>Groceries &#8211; Herbia</title>
-	<link>/</link>
+	<link>https://milancelap.github.io/herbia/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Pulses From Organic Farm</title>
-		<link>/product/pulses-from-organic-farm/</link>
-					<comments>/product/pulses-from-organic-farm/#respond</comments>
+		<title>Handpicked Red Chillies</title>
+		<link>https://milancelap.github.io/herbia/product/handpicked-red-chillies/</link>
+					<comments>https://milancelap.github.io/herbia/product/handpicked-red-chillies/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2020 07:23:26 +0000</pubDate>
-				<guid isPermaLink="false">/product/pulses-from-organic-farm/</guid>
+				<guid isPermaLink="false">https://milancelap.github.io/herbia/product/handpicked-red-chillies/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/pulses-from-organic-farm/feed/</wfw:commentRss>
+					<wfw:commentRss>https://milancelap.github.io/herbia/product/handpicked-red-chillies/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Handpicked Red Chillies</title>
-		<link>/product/handpicked-red-chillies/</link>
-					<comments>/product/handpicked-red-chillies/#respond</comments>
+		<title>Pulses From Organic Farm</title>
+		<link>https://milancelap.github.io/herbia/product/pulses-from-organic-farm/</link>
+					<comments>https://milancelap.github.io/herbia/product/pulses-from-organic-farm/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2020 07:23:26 +0000</pubDate>
-				<guid isPermaLink="false">/product/handpicked-red-chillies/</guid>
+				<guid isPermaLink="false">https://milancelap.github.io/herbia/product/pulses-from-organic-farm/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/handpicked-red-chillies/feed/</wfw:commentRss>
+					<wfw:commentRss>https://milancelap.github.io/herbia/product/pulses-from-organic-farm/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Organic Face Scrub</title>
-		<link>/product/organic-face-scrub/</link>
-					<comments>/product/organic-face-scrub/#respond</comments>
+		<link>https://milancelap.github.io/herbia/product/organic-face-scrub/</link>
+					<comments>https://milancelap.github.io/herbia/product/organic-face-scrub/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2020 07:23:25 +0000</pubDate>
-				<guid isPermaLink="false">/product/organic-face-scrub/</guid>
+				<guid isPermaLink="false">https://milancelap.github.io/herbia/product/organic-face-scrub/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/organic-face-scrub/feed/</wfw:commentRss>
+					<wfw:commentRss>https://milancelap.github.io/herbia/product/organic-face-scrub/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Kidney Beans Organic</title>
-		<link>/product/kidney-beans-organic/</link>
-					<comments>/product/kidney-beans-organic/#respond</comments>
+		<link>https://milancelap.github.io/herbia/product/kidney-beans-organic/</link>
+					<comments>https://milancelap.github.io/herbia/product/kidney-beans-organic/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2020 07:23:25 +0000</pubDate>
-				<guid isPermaLink="false">/product/kidney-beans-organic/</guid>
+				<guid isPermaLink="false">https://milancelap.github.io/herbia/product/kidney-beans-organic/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/kidney-beans-organic/feed/</wfw:commentRss>
+					<wfw:commentRss>https://milancelap.github.io/herbia/product/kidney-beans-organic/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Wheat From Organic Farms</title>
-		<link>/product/wheat-from-organic-farms/</link>
-					<comments>/product/wheat-from-organic-farms/#respond</comments>
+		<link>https://milancelap.github.io/herbia/product/wheat-from-organic-farms/</link>
+					<comments>https://milancelap.github.io/herbia/product/wheat-from-organic-farms/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2020 07:23:25 +0000</pubDate>
-				<guid isPermaLink="false">/product/wheat-from-organic-farms/</guid>
+				<guid isPermaLink="false">https://milancelap.github.io/herbia/product/wheat-from-organic-farms/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/wheat-from-organic-farms/feed/</wfw:commentRss>
+					<wfw:commentRss>https://milancelap.github.io/herbia/product/wheat-from-organic-farms/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Assorted Coffee</title>
-		<link>/product/assorted-coffee/</link>
-					<comments>/product/assorted-coffee/#respond</comments>
+		<link>https://milancelap.github.io/herbia/product/assorted-coffee/</link>
+					<comments>https://milancelap.github.io/herbia/product/assorted-coffee/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2020 07:23:25 +0000</pubDate>
-				<guid isPermaLink="false">/product/assorted-coffee/</guid>
+				<guid isPermaLink="false">https://milancelap.github.io/herbia/product/assorted-coffee/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/assorted-coffee/feed/</wfw:commentRss>
+					<wfw:commentRss>https://milancelap.github.io/herbia/product/assorted-coffee/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Natural Extracted Olive Oil</title>
-		<link>/product/natural-extracted-olive-oil/</link>
-					<comments>/product/natural-extracted-olive-oil/#respond</comments>
+		<link>https://milancelap.github.io/herbia/product/natural-extracted-olive-oil/</link>
+					<comments>https://milancelap.github.io/herbia/product/natural-extracted-olive-oil/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2020 07:23:25 +0000</pubDate>
-				<guid isPermaLink="false">/product/natural-extracted-olive-oil/</guid>
+				<guid isPermaLink="false">https://milancelap.github.io/herbia/product/natural-extracted-olive-oil/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/natural-extracted-olive-oil/feed/</wfw:commentRss>
+					<wfw:commentRss>https://milancelap.github.io/herbia/product/natural-extracted-olive-oil/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fresh Organic Honey</title>
-		<link>/product/fresh-organic-honey/</link>
-					<comments>/product/fresh-organic-honey/#respond</comments>
+		<link>https://milancelap.github.io/herbia/product/fresh-organic-honey/</link>
+					<comments>https://milancelap.github.io/herbia/product/fresh-organic-honey/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2020 07:23:25 +0000</pubDate>
-				<guid isPermaLink="false">/product/fresh-organic-honey/</guid>
+				<guid isPermaLink="false">https://milancelap.github.io/herbia/product/fresh-organic-honey/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/fresh-organic-honey/feed/</wfw:commentRss>
+					<wfw:commentRss>https://milancelap.github.io/herbia/product/fresh-organic-honey/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hand Sanitizer</title>
-		<link>/product/hand-sanitizer/</link>
-					<comments>/product/hand-sanitizer/#respond</comments>
+		<link>https://milancelap.github.io/herbia/product/hand-sanitizer/</link>
+					<comments>https://milancelap.github.io/herbia/product/hand-sanitizer/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2020 07:23:25 +0000</pubDate>
-				<guid isPermaLink="false">/product/hand-sanitizer/</guid>
+				<guid isPermaLink="false">https://milancelap.github.io/herbia/product/hand-sanitizer/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/hand-sanitizer/feed/</wfw:commentRss>
+					<wfw:commentRss>https://milancelap.github.io/herbia/product/hand-sanitizer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cashew Butter</title>
-		<link>/product/cashew-butter/</link>
-					<comments>/product/cashew-butter/#respond</comments>
+		<link>https://milancelap.github.io/herbia/product/cashew-butter/</link>
+					<comments>https://milancelap.github.io/herbia/product/cashew-butter/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Sep 2020 07:23:24 +0000</pubDate>
-				<guid isPermaLink="false">/product/cashew-butter/</guid>
+				<guid isPermaLink="false">https://milancelap.github.io/herbia/product/cashew-butter/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/cashew-butter/feed/</wfw:commentRss>
+					<wfw:commentRss>https://milancelap.github.io/herbia/product/cashew-butter/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
